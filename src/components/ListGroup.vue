@@ -11,7 +11,7 @@
         </div>
         <div class="col d-grid px-0">
           <button class="btn d-flex justify-content-center align-items-center">
-            <span class="material-icons-outlined"> comment </span>
+            <span class="material-symbols-outlined"> chat_bubble </span>
             Comment
           </button>
         </div>
@@ -25,7 +25,7 @@ export default {};
 </script>
 
 <style scoped>
-    .btn:hover {
-        color: #5044c9;
-    }
+.btn:hover {
+  color: #5044c9;
+}
 </style>
